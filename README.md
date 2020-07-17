@@ -1,5 +1,2 @@
 # hello-world
-test
-hi,i am a fresh man,nice to meet you
-lalallalalalalallalalalalalalalla
-hahahhahahahahahahhaha
+打印"hello world"
